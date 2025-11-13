@@ -36,6 +36,7 @@ ejecucion del juego.
 3. Compilar y ejecutar (Necesaria la configuración y uso de librerias de Java 17).
 
 ## Estructura del programa (Arquitectura MVC)
+```bash
 src/
 └── main/
     └── java/
@@ -63,11 +64,11 @@ src/
             │   │   └── IGame
             │   │
             │   └── player/
-            │   |    ├── HumanPlayer
-            │   |    ├── IPlayer
-            │   |    ├── MachinePlayer
-            │   |    └── Player
-            │   └── Table
+            │       ├── HumanPlayer
+            │       ├── IPlayer
+            │       ├── MachinePlayer
+            │       ├── Player
+            │       └── Table
             │
             ├── util/
             │   ├── TableMonitorThread
@@ -78,6 +79,7 @@ src/
             │   └── StartView.java
             │
             └── Main
+```
 
 ## Vista del juego 
 <img width="798" height="716" alt="image" src="https://github.com/user-attachments/assets/9be6c739-7097-47b4-bc6a-2c90d10ed50a" />
@@ -85,8 +87,8 @@ src/
 
 ## Autores
 
-1. Nombre: Oscar Andrés Rengifo Bustos
-   GitHub: TheRoscar
+1. Nombre: Oscar Andrés Rengifo Bustos   
+   GitHub: TheRoscar   
    Correo: oscar.andres.rengifo@correounivalle.edu.co
 
 2. Nombre:

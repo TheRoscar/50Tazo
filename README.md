@@ -18,7 +18,7 @@ ejecucion del juego.
 
 ---
 
-##  Características
+##  ⚙ Características
 - ✔️ Manejo de lógica de ejecución, suma y resta de cartas, consecucion de turnos.
 - ✔️ Implementación de funciones lógicas para la ejecucion y toma de decisiones CPU.
 - ✔️ Interfaz clara, llamativa y tematizada según el contexto del juego.
@@ -35,7 +35,7 @@ ejecucion del juego.
 
 3. Compilar y ejecutar (Necesaria la configuración y uso de librerias de Java 17).
 
-## Estructura del programa (Arquitectura MVC)
+## 🛠 Estructura del programa (Arquitectura MVC)
 ```bash
 src/
 └── main/
@@ -81,7 +81,7 @@ src/
             └── Main
 ```
 
-## Vista del juego 
+## 👀 Vista del juego 
 <img width="798" height="716" alt="image" src="https://github.com/user-attachments/assets/9be6c739-7097-47b4-bc6a-2c90d10ed50a" />
 
 
@@ -91,13 +91,13 @@ src/
    GitHub: TheRoscar   
    Correo: oscar.andres.rengifo@correounivalle.edu.co
 
-2. Nombre:
-   Github:
-   Correo:
+2. Nombre:   
+   Github:   
+   Correo:   
 
-3. Nombre:
-   GitHub:
-   Correo:
+3. Nombre:   
+   GitHub:   
+   Correo:   
 
 
  

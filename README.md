@@ -95,9 +95,7 @@ src/
    Github: juan jk
    Correo: juan.lopez.jimenez@correounivalle.edu.co
 
-3. Nombre:   
-   GitHub:   
-   Correo:   
+  
 
 
  

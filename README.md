@@ -93,10 +93,13 @@ src/
 
 2. Nombre: Juan David López Jiménez 
    Github: juanjk25
+   
    Correo: juan.lopez.jimenez@correounivalle.edu.co
 
 4. Nombre: Jarrison Daniel Caicedo Pascuaza
-   GitHub: 
+   
+   GitHub:
+   
    Correo: jarrison.caicedo@correounivalle.edu.co
 
 

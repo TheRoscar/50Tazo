@@ -91,9 +91,9 @@ src/
    GitHub: TheRoscar   
    Correo: oscar.andres.rengifo@correounivalle.edu.co
 
-2. Nombre:   
-   Github:   
-   Correo:   
+2. Nombre: Juan David López Jiménez 
+   Github: juanjk25
+   Correo: jua.lopez.jimenez@correounivalle.edu.co
 
 3. Nombre:   
    GitHub:   

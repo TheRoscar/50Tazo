@@ -92,14 +92,11 @@ src/
    Correo: oscar.andres.rengifo@correounivalle.edu.co
 
 2. Nombre: Juan David López Jiménez 
-   Github: juanjk25
-   
-   Correo: juan.lopez.jimenez@correounivalle.edu.co
+   Github: juanjk25   
+   Correo: juan.lopez.jimenez@correounivalle.edu.co   
 
-4. Nombre: Jarrison Daniel Caicedo Pascuaza
-   
-   GitHub:
-   
+4. Nombre: Jarrison Daniel Caicedo Pascuaza   
+   GitHub: Jarrison001   
    Correo: jarrison.caicedo@correounivalle.edu.co
 
 
